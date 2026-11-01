@@ -27,6 +27,9 @@
 
 ## Wordle Tools
 
+- [PoopleGame Word Ladder Solver](https://pooplegame.fun/word-ladder-solver/) - Find shortest four-letter word-ladder routes, with an optional familiar-bridge mode for easier practice.
+
+
 - [WordUnscrambler.tips Wordle Solver](https://wordunscrambler.tips/wordle-solver/) - Wordle solver with letter position filtering and frequency analysis.
 - [NYT Wordle](https://www.nytimes.com/games/wordle/) - The original Wordle game by the New York Times.
 
