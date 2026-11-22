@@ -48,6 +48,7 @@
 ## Word Game Strategy
 
 - [How to Win at Scrabble](https://wordunscrambler.tips/blog/) - Strategy guides for Scrabble, Words With Friends, and Wordle.
+- [A guide to daily Wordle-style puzzles](https://bestdaily.games/collections/games-like-wordle/) - Compare word ladders, word associations and letter puzzles, with links to the original games.
 - [Scrabble Two-Letter Words](https://en.wikipedia.org/wiki/Two-letter_words_in_Scrabble) - Essential two-letter word list for competitive play.
 
 ## Communities
